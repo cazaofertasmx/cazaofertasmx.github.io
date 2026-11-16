@@ -47,7 +47,7 @@
   "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM29001934?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
   "added_at": "2026-11-15T19:41:16+00:00",
   "published_at": "2026-11-15T20:51:58+00:00",
-  "fb_post_id": "",
+  "fb_post_id": "2215630066031720",
   "link_auto": true,
   "code": 96,
   "copy": {
@@ -63,7 +63,9 @@
    "video": "MLM29001934.mp4",
    "text": "MLM29001934.txt"
   },
-  "fb_status": "queued"
+  "fb_status": "posted",
+  "fb_reel_id": "2215630066031720",
+  "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
  },
  {
   "id": "MLM22538764",
@@ -80,7 +82,7 @@
   "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM22538764?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
   "added_at": "2026-11-15T19:41:16+00:00",
   "published_at": "2026-11-15T20:51:49+00:00",
-  "fb_post_id": "",
+  "fb_post_id": "1575711292285967",
   "link_auto": true,
   "code": 95,
   "copy": {
@@ -96,7 +98,9 @@
    "video": "MLM22538764.mp4",
    "text": "MLM22538764.txt"
   },
-  "fb_status": "queued"
+  "fb_status": "posted",
+  "fb_reel_id": "1575711292285967",
+  "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
  },
  {
   "id": "MLM45051966",
