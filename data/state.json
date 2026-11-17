@@ -1,7 +1,7 @@
 {
  "meta": {
-  "next_code": 98,
-  "fb_last_batch": "2026-11-16T10:22:31+00:00",
+  "next_code": 105,
+  "fb_last_batch": "2026-11-17T00:00:29+00:00",
   "link_cache": {
    "MLM54014512": "https://meli.la/2NEV3oo",
    "MLM53457233": "https://meli.la/2YDt3NV",
@@ -119,15 +119,15 @@
    "MLM25436011": "https://www.mercadolibre.com.mx/p/MLM25436011?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true"
   },
   "fb_stories_day": "2026-11-16",
-  "fb_top5_day": "2026-11-15",
+  "fb_top5_day": "2026-11-16",
   "fb_top5": {
-   "post_id": "1445389978654839_122109492603538348",
+   "post_id": "1445389978654839_122110058487538348",
    "ids": [
-    "MLM38955373",
-    "MLM79464790",
-    "MLM19531552",
-    "MLM29001934",
-    "MLM45051966"
+    "MLM18956615",
+    "MLM40732643",
+    "MLM29367002",
+    "MLM62369518",
+    "MLM23995388"
    ]
   }
  },
@@ -3442,7 +3442,7 @@
     "video": "MLM45051966.mp4",
     "text": "MLM45051966.txt"
    },
-   "fb_status": "queued"
+   "fb_status": "expired"
   },
   "MLM22538764": {
    "id": "MLM22538764",
@@ -3563,12 +3563,29 @@
    "seller_level": "5_green",
    "item_id": "MLM1927127279",
    "category": "MLM1246",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM18956615?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-16T23:18:13+00:00",
-   "published_at": "",
-   "fb_post_id": "",
-   "link_auto": true
+   "published_at": "2026-11-16T23:59:28+00:00",
+   "fb_post_id": "2647730765698669",
+   "link_auto": true,
+   "code": 98,
+   "copy": {
+    "facebook": "🔥 L'Oréal Paris Revitalift Sérum Ácido Hialurónico, Hidratante, 30 ml\nHoy en $103 (antes $365). 72% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM18956615?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *L'Oréal Paris Revitalift Sérum Ácido Hialurónico, Hidratante, 30 ml*\n$103 (antes $365)\n72% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM18956615?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 72% menos?\nCUERPO (3-15s): L'Oréal Paris Revitalift Sérum Ácido Hialurónico, Hidratante, 30 ml. Hoy cuesta $103 (antes $365).\nCIERRE (15-20s): Busca el código 98 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "L'Oréal Paris Revitalift Sérum Ácido Hialurónico, Hidratante, 30 ml a $103 🔥 Código 98 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "L'Oréal Paris Revitalift Sérum Ácido Hialurónico, Hidratante, 30 ml. Precio actual $103 (antes $365)."
+   },
+   "cards": {
+    "square": "MLM18956615-sq.jpg",
+    "vertical": "MLM18956615-v.jpg",
+    "video": "MLM18956615.mp4",
+    "text": "MLM18956615.txt"
+   },
+   "fb_status": "posted",
+   "fb_reel_id": "2647730765698669",
+   "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
   },
   "MLM29367002": {
    "id": "MLM29367002",
@@ -3581,12 +3598,29 @@
    "seller_level": "5_green",
    "item_id": "MLM4065169050",
    "category": "MLM1574",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM29367002?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-16T23:18:13+00:00",
-   "published_at": "",
-   "fb_post_id": "",
-   "link_auto": true
+   "published_at": "2026-11-16T23:59:34+00:00",
+   "fb_post_id": "1637063441238829",
+   "link_auto": true,
+   "code": 99,
+   "copy": {
+    "facebook": "🔥 Recipientes 24 Pz Herméticos De Almacenamiento De Cocina Transparente\nHoy en $349 (antes $699). 50% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM29367002?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *Recipientes 24 Pz Herméticos De Almacenamiento De Cocina Transparente*\n$349 (antes $699)\n50% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM29367002?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 50% menos?\nCUERPO (3-15s): Recipientes 24 Pz Herméticos De Almacenamiento De Cocina Transparente. Hoy cuesta $349 (antes $699).\nCIERRE (15-20s): Busca el código 99 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "Recipientes 24 Pz Herméticos De Almacenamiento De Cocina Transparente a $349 🔥 Código 99 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "Recipientes 24 Pz Herméticos De Almacenamiento De Cocina Transparente. Precio actual $349 (antes $699)."
+   },
+   "cards": {
+    "square": "MLM29367002-sq.jpg",
+    "vertical": "MLM29367002-v.jpg",
+    "video": "MLM29367002.mp4",
+    "text": "MLM29367002.txt"
+   },
+   "fb_status": "posted",
+   "fb_reel_id": "1637063441238829",
+   "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
   },
   "MLM40732643": {
    "id": "MLM40732643",
@@ -3599,12 +3633,27 @@
    "seller_level": "5_green",
    "item_id": "MLM3392617854",
    "category": "MLM1246",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM40732643?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-16T23:18:13+00:00",
-   "published_at": "",
+   "published_at": "2026-11-16T23:59:39+00:00",
    "fb_post_id": "",
-   "link_auto": true
+   "link_auto": true,
+   "code": 100,
+   "copy": {
+    "facebook": "🔥 Kit Garnier Express Aclara Anti-Imperfecciones con Gel Limpiador, Sérum y Crema Hidratante\nHoy en $308 (antes $665). 54% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM40732643?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *Kit Garnier Express Aclara Anti-Imperfecciones con Gel Limpiador, Sérum y Crema Hidratante*\n$308 (antes $665)\n54% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM40732643?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 54% menos?\nCUERPO (3-15s): Kit Garnier Express Aclara Anti-Imperfecciones con Gel Limpiador, Sérum y Crema Hidratante. Hoy cuesta $308 (antes $665).\nCIERRE (15-20s): Busca el código 100 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "Kit Garnier Express Aclara Anti-Imperfecciones con Gel Limpiador, Séru a $308 🔥 Código 100 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "Kit Garnier Express Aclara Anti-Imperfecciones con Gel Limpiador, Sérum y Crema Hidratante. Precio actual $308 (antes $665)."
+   },
+   "cards": {
+    "square": "MLM40732643-sq.jpg",
+    "vertical": "MLM40732643-v.jpg",
+    "video": "MLM40732643.mp4",
+    "text": "MLM40732643.txt"
+   },
+   "fb_status": "queued"
   },
   "MLM23995388": {
    "id": "MLM23995388",
@@ -3617,12 +3666,27 @@
    "seller_level": "5_green",
    "item_id": "MLM2230781917",
    "category": "MLM1000",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM23995388?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-16T23:18:13+00:00",
-   "published_at": "",
+   "published_at": "2026-11-16T23:59:45+00:00",
    "fb_post_id": "",
-   "link_auto": true
+   "link_auto": true,
+   "code": 101,
+   "copy": {
+    "facebook": "🔥 Amazon Echo Pop C2H4R9 con asistente virtual Alexa Control de Voz Charcoal\nHoy en $775 (antes $1,199). 35% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM23995388?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *Amazon Echo Pop C2H4R9 con asistente virtual Alexa Control de Voz Charcoal*\n$775 (antes $1,199)\n35% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM23995388?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 35% menos?\nCUERPO (3-15s): Amazon Echo Pop C2H4R9 con asistente virtual Alexa Control de Voz Charcoal. Hoy cuesta $775 (antes $1,199).\nCIERRE (15-20s): Busca el código 101 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "Amazon Echo Pop C2H4R9 con asistente virtual Alexa Control de Voz Char a $775 🔥 Código 101 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "Amazon Echo Pop C2H4R9 con asistente virtual Alexa Control de Voz Charcoal. Precio actual $775 (antes $1,199)."
+   },
+   "cards": {
+    "square": "MLM23995388-sq.jpg",
+    "vertical": "MLM23995388-v.jpg",
+    "video": "MLM23995388.mp4",
+    "text": "MLM23995388.txt"
+   },
+   "fb_status": "queued"
   },
   "MLM67290782": {
    "id": "MLM67290782",
@@ -3635,12 +3699,27 @@
    "seller_level": "5_green",
    "item_id": "MLM5139077498",
    "category": "MLM1132",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM67290782?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-16T23:18:13+00:00",
-   "published_at": "",
+   "published_at": "2026-11-16T23:59:51+00:00",
    "fb_post_id": "",
-   "link_auto": true
+   "link_auto": true,
+   "code": 102,
+   "copy": {
+    "facebook": "🔥 LEGO Editions Cristiano Ronaldo: Fenómenos del Futbol 43012; Juguete de construcción con minifigura del futbolista y un gran CR7; Figura de colección; Regalo para Navidad; 10+\nHoy en $489 (antes $699). 30% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM67290782?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *LEGO Editions Cristiano Ronaldo: Fenómenos del Futbol 43012; Juguete de construcción con minifigura del futbolista y un gran CR7; Figura de colección; Regalo para Navidad; 10+*\n$489 (antes $699)\n30% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM67290782?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 30% menos?\nCUERPO (3-15s): LEGO Editions Cristiano Ronaldo: Fenómenos del Futbol 43012; Juguete de construcción con minifigura del futbolista y un gran CR7; Figura de colección; Regalo para Navidad; 10+. Hoy cuesta $489 (antes $699).\nCIERRE (15-20s): Busca el código 102 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "LEGO Editions Cristiano Ronaldo: Fenómenos del Futbol 43012; Juguete d a $489 🔥 Código 102 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "LEGO Editions Cristiano Ronaldo: Fenómenos del Futbol 43012; Juguete de construcción con minifigura del futbolista y un gran CR7; Figura de colección; Regalo para Navidad; 10+. Precio actual $489 (antes $699)."
+   },
+   "cards": {
+    "square": "MLM67290782-sq.jpg",
+    "vertical": "MLM67290782-v.jpg",
+    "video": "MLM67290782.mp4",
+    "text": "MLM67290782.txt"
+   },
+   "fb_status": "queued"
   },
   "MLM62369518": {
    "id": "MLM62369518",
@@ -3653,12 +3732,27 @@
    "seller_level": "5_green",
    "item_id": "MLM6154226796",
    "category": "MLM1000",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM62369518?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-16T23:18:13+00:00",
-   "published_at": "",
+   "published_at": "2026-11-16T23:59:57+00:00",
    "fb_post_id": "",
-   "link_auto": true
+   "link_auto": true,
+   "code": 103,
+   "copy": {
+    "facebook": "🔥 Pantalla Smart Tv 32 Pulgadas Tfl Android Tv Dled Bluetooth\nHoy en $1,898 (antes $2,999). 37% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM62369518?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *Pantalla Smart Tv 32 Pulgadas Tfl Android Tv Dled Bluetooth*\n$1,898 (antes $2,999)\n37% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM62369518?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 37% menos?\nCUERPO (3-15s): Pantalla Smart Tv 32 Pulgadas Tfl Android Tv Dled Bluetooth. Hoy cuesta $1,898 (antes $2,999).\nCIERRE (15-20s): Busca el código 103 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "Pantalla Smart Tv 32 Pulgadas Tfl Android Tv Dled Bluetooth a $1,898 🔥 Código 103 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "Pantalla Smart Tv 32 Pulgadas Tfl Android Tv Dled Bluetooth. Precio actual $1,898 (antes $2,999)."
+   },
+   "cards": {
+    "square": "MLM62369518-sq.jpg",
+    "vertical": "MLM62369518-v.jpg",
+    "video": "MLM62369518.mp4",
+    "text": "MLM62369518.txt"
+   },
+   "fb_status": "queued"
   },
   "MLM25436011": {
    "id": "MLM25436011",
@@ -3671,12 +3765,27 @@
    "seller_level": "5_green",
    "item_id": "MLM2144887237",
    "category": "MLM1000",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM25436011?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-16T23:18:13+00:00",
-   "published_at": "",
+   "published_at": "2026-11-17T00:00:02+00:00",
    "fb_post_id": "",
-   "link_auto": true
+   "link_auto": true,
+   "code": 104,
+   "copy": {
+    "facebook": "🔥 Bocina Amazon Echo Show 5 3ra Generación 5.5 Pulgadas Negra Color Negro\nHoy en $1,299 (antes $1,999). 35% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM25436011?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *Bocina Amazon Echo Show 5 3ra Generación 5.5 Pulgadas Negra Color Negro*\n$1,299 (antes $1,999)\n35% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM25436011?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 35% menos?\nCUERPO (3-15s): Bocina Amazon Echo Show 5 3ra Generación 5.5 Pulgadas Negra Color Negro. Hoy cuesta $1,299 (antes $1,999).\nCIERRE (15-20s): Busca el código 104 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "Bocina Amazon Echo Show 5 3ra Generación 5.5 Pulgadas Negra Color Negr a $1,299 🔥 Código 104 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "Bocina Amazon Echo Show 5 3ra Generación 5.5 Pulgadas Negra Color Negro. Precio actual $1,299 (antes $1,999)."
+   },
+   "cards": {
+    "square": "MLM25436011-sq.jpg",
+    "vertical": "MLM25436011-v.jpg",
+    "video": "MLM25436011.mp4",
+    "text": "MLM25436011.txt"
+   },
+   "fb_status": "queued"
   }
  }
 }
