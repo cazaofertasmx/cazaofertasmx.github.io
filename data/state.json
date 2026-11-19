@@ -129,7 +129,7 @@
    "MLM23485952": "https://www.mercadolibre.com.mx/p/MLM23485952?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "MLM28297181": "https://www.mercadolibre.com.mx/p/MLM28297181?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true"
   },
-  "fb_stories_day": "2026-11-18",
+  "fb_stories_day": "2026-11-19",
   "fb_top5_day": "2026-11-18",
   "fb_top5": {
    "post_id": "1445389978654839_122110931283538348",
@@ -4125,7 +4125,8 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1145994264464833",
-   "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
+   "fb_comment": "pendiente: falta el permiso pages_manage_engagement",
+   "fb_story_id": "2661912080898514"
   },
   "MLM28297181": {
    "id": "MLM28297181",
@@ -4160,7 +4161,8 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1822281035759864",
-   "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
+   "fb_comment": "pendiente: falta el permiso pages_manage_engagement",
+   "fb_story_id": "1814692959832193"
   }
  }
 }
