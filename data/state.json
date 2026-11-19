@@ -1,7 +1,7 @@
 {
  "meta": {
-  "next_code": 114,
-  "fb_last_batch": "2026-11-19T01:49:25+00:00",
+  "next_code": 116,
+  "fb_last_batch": "2026-11-19T22:56:26+00:00",
   "link_cache": {
    "MLM54014512": "https://meli.la/2NEV3oo",
    "MLM53457233": "https://meli.la/2YDt3NV",
@@ -4177,12 +4177,29 @@
    "seller_level": "5_green",
    "item_id": "MLM2541235429",
    "category": "MLM1132",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM36503961?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-19T22:04:11+00:00",
-   "published_at": "",
-   "fb_post_id": "",
-   "link_auto": true
+   "published_at": "2026-11-19T22:55:43+00:00",
+   "fb_post_id": "1853535219191057",
+   "link_auto": true,
+   "code": 114,
+   "copy": {
+    "facebook": "🔥 Trampolín Cuory Tumbling Niño Resistente 1.4m Azul Red Seguridad\nHoy en $639 (antes $1,598). 60% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM36503961?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *Trampolín Cuory Tumbling Niño Resistente 1.4m Azul Red Seguridad*\n$639 (antes $1,598)\n60% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM36503961?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 60% menos?\nCUERPO (3-15s): Trampolín Cuory Tumbling Niño Resistente 1.4m Azul Red Seguridad. Hoy cuesta $639 (antes $1,598).\nCIERRE (15-20s): Busca el código 114 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "Trampolín Cuory Tumbling Niño Resistente 1.4m Azul Red Seguridad a $639 🔥 Código 114 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "Trampolín Cuory Tumbling Niño Resistente 1.4m Azul Red Seguridad. Precio actual $639 (antes $1,598)."
+   },
+   "cards": {
+    "square": "MLM36503961-sq.jpg",
+    "vertical": "MLM36503961-v.jpg",
+    "video": "MLM36503961.mp4",
+    "text": "MLM36503961.txt"
+   },
+   "fb_status": "posted",
+   "fb_reel_id": "1853535219191057",
+   "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
   },
   "MLM22207427": {
    "id": "MLM22207427",
@@ -4195,12 +4212,29 @@
    "seller_level": "5_green",
    "item_id": "MLM3928532286",
    "category": "MLM1246",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM22207427?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-19T22:04:11+00:00",
-   "published_at": "",
-   "fb_post_id": "",
-   "link_auto": true
+   "published_at": "2026-11-19T22:55:50+00:00",
+   "fb_post_id": "1145674028109207",
+   "link_auto": true,
+   "code": 115,
+   "copy": {
+    "facebook": "🔥 Crema Hidratante Tono Uniforme Express Aclara FPS30 50 ml Garnier\nHoy en $114 (antes $175). 35% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM22207427?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *Crema Hidratante Tono Uniforme Express Aclara FPS30 50 ml Garnier*\n$114 (antes $175)\n35% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM22207427?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 35% menos?\nCUERPO (3-15s): Crema Hidratante Tono Uniforme Express Aclara FPS30 50 ml Garnier. Hoy cuesta $114 (antes $175).\nCIERRE (15-20s): Busca el código 115 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "Crema Hidratante Tono Uniforme Express Aclara FPS30 50 ml Garnier a $114 🔥 Código 115 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "Crema Hidratante Tono Uniforme Express Aclara FPS30 50 ml Garnier. Precio actual $114 (antes $175)."
+   },
+   "cards": {
+    "square": "MLM22207427-sq.jpg",
+    "vertical": "MLM22207427-v.jpg",
+    "video": "MLM22207427.mp4",
+    "text": "MLM22207427.txt"
+   },
+   "fb_status": "posted",
+   "fb_reel_id": "1145674028109207",
+   "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
   }
  }
 }
