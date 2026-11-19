@@ -127,7 +127,9 @@
    "MLM58329846": "https://www.mercadolibre.com.mx/p/MLM58329846?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "MLM52368542": "https://www.mercadolibre.com.mx/p/MLM52368542?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "MLM23485952": "https://www.mercadolibre.com.mx/p/MLM23485952?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
-   "MLM28297181": "https://www.mercadolibre.com.mx/p/MLM28297181?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true"
+   "MLM28297181": "https://www.mercadolibre.com.mx/p/MLM28297181?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "MLM36503961": "https://www.mercadolibre.com.mx/p/MLM36503961?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "MLM22207427": "https://www.mercadolibre.com.mx/p/MLM22207427?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true"
   },
   "fb_stories_day": "2026-11-19",
   "fb_top5_day": "2026-11-18",
@@ -4163,6 +4165,42 @@
    "fb_reel_id": "1822281035759864",
    "fb_comment": "pendiente: falta el permiso pages_manage_engagement",
    "fb_story_id": "1814692959832193"
+  },
+  "MLM36503961": {
+   "id": "MLM36503961",
+   "title": "Trampolín Cuory Tumbling Niño Resistente 1.4m Azul Red Seguridad",
+   "price": 639.0,
+   "original_price": 1598.0,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680557-MLA96075271351_102025-F.jpg",
+   "permalink": "https://www.mercadolibre.com.mx/p/MLM36503961",
+   "rank": 17,
+   "seller_level": "5_green",
+   "item_id": "MLM2541235429",
+   "category": "MLM1132",
+   "status": "ready",
+   "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM36503961?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "added_at": "2026-11-19T22:04:11+00:00",
+   "published_at": "",
+   "fb_post_id": "",
+   "link_auto": true
+  },
+  "MLM22207427": {
+   "id": "MLM22207427",
+   "title": "Crema Hidratante Tono Uniforme Express Aclara FPS30 50 ml Garnier",
+   "price": 114.17,
+   "original_price": 175.0,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_621019-MLA92986905862_092025-F.jpg",
+   "permalink": "https://www.mercadolibre.com.mx/p/MLM22207427",
+   "rank": 20,
+   "seller_level": "5_green",
+   "item_id": "MLM3928532286",
+   "category": "MLM1246",
+   "status": "ready",
+   "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM22207427?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "added_at": "2026-11-19T22:04:11+00:00",
+   "published_at": "",
+   "fb_post_id": "",
+   "link_auto": true
   }
  }
 }
