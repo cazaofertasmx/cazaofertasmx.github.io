@@ -129,7 +129,9 @@
    "MLM23485952": "https://www.mercadolibre.com.mx/p/MLM23485952?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "MLM28297181": "https://www.mercadolibre.com.mx/p/MLM28297181?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "MLM36503961": "https://www.mercadolibre.com.mx/p/MLM36503961?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
-   "MLM22207427": "https://www.mercadolibre.com.mx/p/MLM22207427?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true"
+   "MLM22207427": "https://www.mercadolibre.com.mx/p/MLM22207427?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "MLM18553094": "https://www.mercadolibre.com.mx/p/MLM18553094?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "MLM19474833": "https://www.mercadolibre.com.mx/p/MLM19474833?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true"
   },
   "fb_stories_day": "2026-11-20",
   "fb_top5_day": "2026-11-18",
@@ -4237,6 +4239,42 @@
    "fb_reel_id": "1145674028109207",
    "fb_comment": "pendiente: falta el permiso pages_manage_engagement",
    "fb_story_id": "2687664098417332"
+  },
+  "MLM18553094": {
+   "id": "MLM18553094",
+   "title": "Horno de Microondas Doméstico Midea Mmdf07s2mg 0.7 Pies 20 Litros Acabado Espejo",
+   "price": 1329.0,
+   "original_price": 2499.0,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_806657-MLA113155424483_062026-F.jpg",
+   "permalink": "https://www.mercadolibre.com.mx/p/MLM18553094",
+   "rank": 18,
+   "seller_level": "5_green",
+   "item_id": "MLM2847750983",
+   "category": "MLM1575",
+   "status": "ready",
+   "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM18553094?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "added_at": "2026-11-20T21:45:43+00:00",
+   "published_at": "",
+   "fb_post_id": "",
+   "link_auto": true
+  },
+  "MLM19474833": {
+   "id": "MLM19474833",
+   "title": "CeraVe Crema Hidratante Hasta por 24 Horas, Uso Diario para Rostro y Cuerpo, Recomendada para Pieles Secas, Contiene 3 Ceramidas Esenciales y Ácido Hialurónico, 50 ml",
+   "price": 87.0,
+   "original_price": 169.0,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_845344-MLU75981812673_042024-F.jpg",
+   "permalink": "https://www.mercadolibre.com.mx/p/MLM19474833",
+   "rank": 20,
+   "seller_level": "5_green",
+   "item_id": "MLM1473235729",
+   "category": "MLM1246",
+   "status": "ready",
+   "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM19474833?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "added_at": "2026-11-20T21:45:43+00:00",
+   "published_at": "",
+   "fb_post_id": "",
+   "link_auto": true
   }
  }
 }
