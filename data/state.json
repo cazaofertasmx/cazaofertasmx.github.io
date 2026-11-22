@@ -131,7 +131,9 @@
    "MLM36503961": "https://www.mercadolibre.com.mx/p/MLM36503961?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "MLM22207427": "https://www.mercadolibre.com.mx/p/MLM22207427?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "MLM18553094": "https://www.mercadolibre.com.mx/p/MLM18553094?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
-   "MLM19474833": "https://www.mercadolibre.com.mx/p/MLM19474833?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true"
+   "MLM19474833": "https://www.mercadolibre.com.mx/p/MLM19474833?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "MLM43497684": "https://www.mercadolibre.com.mx/p/MLM43497684?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "MLM28530055": "https://www.mercadolibre.com.mx/p/MLM28530055?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true"
   },
   "fb_stories_day": "2026-11-21",
   "fb_top5_day": "2026-11-18",
@@ -4311,6 +4313,42 @@
    "fb_reel_id": "1124629683669956",
    "fb_comment": "pendiente: falta el permiso pages_manage_engagement",
    "fb_story_id": "2306928556900162"
+  },
+  "MLM43497684": {
+   "id": "MLM43497684",
+   "title": "Serie De Luces Navideña Solar Led Blanco Frío 100 Focos 12 Metros Decorativa Marca Dosyu DY-SU100",
+   "price": 95.04,
+   "original_price": 198.0,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_871658-MLA121224303347_112026-F.jpg",
+   "permalink": "https://www.mercadolibre.com.mx/p/MLM43497684",
+   "rank": 18,
+   "seller_level": "5_green",
+   "item_id": "MLM2584358001",
+   "category": "MLM1574",
+   "status": "ready",
+   "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM43497684?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "added_at": "2026-11-22T20:39:04+00:00",
+   "published_at": "",
+   "fb_post_id": "",
+   "link_auto": true
+  },
+  "MLM28530055": {
+   "id": "MLM28530055",
+   "title": "Castillo Princesas Plegable Portátil Raganet Color Rosa",
+   "price": 189.0,
+   "original_price": 298.0,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_627380-MLA119226040181_102026-F.jpg",
+   "permalink": "https://www.mercadolibre.com.mx/p/MLM28530055",
+   "rank": 20,
+   "seller_level": "5_green",
+   "item_id": "MLM6369652350",
+   "category": "MLM1132",
+   "status": "ready",
+   "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM28530055?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+   "added_at": "2026-11-22T20:39:04+00:00",
+   "published_at": "",
+   "fb_post_id": "",
+   "link_auto": true
   }
  }
 }
