@@ -1,7 +1,7 @@
 {
  "meta": {
-  "next_code": 118,
-  "fb_last_batch": "2026-11-20T22:31:01+00:00",
+  "next_code": 120,
+  "fb_last_batch": "2026-11-22T21:35:09+00:00",
   "link_cache": {
    "MLM54014512": "https://meli.la/2NEV3oo",
    "MLM53457233": "https://meli.la/2YDt3NV",
@@ -135,7 +135,7 @@
    "MLM43497684": "https://www.mercadolibre.com.mx/p/MLM43497684?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "MLM28530055": "https://www.mercadolibre.com.mx/p/MLM28530055?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true"
   },
-  "fb_stories_day": "2026-11-21",
+  "fb_stories_day": "2026-11-22",
   "fb_top5_day": "2026-11-18",
   "fb_top5": {
    "post_id": "1445389978654839_122110931283538348",
@@ -4325,12 +4325,30 @@
    "seller_level": "5_green",
    "item_id": "MLM2584358001",
    "category": "MLM1574",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM43497684?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-22T20:39:04+00:00",
-   "published_at": "",
-   "fb_post_id": "",
-   "link_auto": true
+   "published_at": "2026-11-22T21:34:33+00:00",
+   "fb_post_id": "1184763200869561",
+   "link_auto": true,
+   "code": 118,
+   "copy": {
+    "facebook": "🔥 Serie De Luces Navideña Solar Led Blanco Frío 100 Focos 12 Metros Decorativa Marca Dosyu DY-SU100\nHoy en $95 (antes $198). 52% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM43497684?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *Serie De Luces Navideña Solar Led Blanco Frío 100 Focos 12 Metros Decorativa Marca Dosyu DY-SU100*\n$95 (antes $198)\n52% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM43497684?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 52% menos?\nCUERPO (3-15s): Serie De Luces Navideña Solar Led Blanco Frío 100 Focos 12 Metros Decorativa Marca Dosyu DY-SU100. Hoy cuesta $95 (antes $198).\nCIERRE (15-20s): Busca el código 118 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "Serie De Luces Navideña Solar Led Blanco Frío 100 Focos 12 Metros Deco a $95 🔥 Código 118 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "Serie De Luces Navideña Solar Led Blanco Frío 100 Focos 12 Metros Decorativa Marca Dosyu DY-SU100. Precio actual $95 (antes $198)."
+   },
+   "cards": {
+    "square": "MLM43497684-sq.jpg",
+    "vertical": "MLM43497684-v.jpg",
+    "video": "MLM43497684.mp4",
+    "text": "MLM43497684.txt"
+   },
+   "fb_status": "posted",
+   "fb_story_id": "1114248878068243",
+   "fb_reel_id": "1184763200869561",
+   "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
   },
   "MLM28530055": {
    "id": "MLM28530055",
@@ -4343,12 +4361,30 @@
    "seller_level": "5_green",
    "item_id": "MLM6369652350",
    "category": "MLM1132",
-   "status": "ready",
+   "status": "published",
    "affiliate_link": "https://www.mercadolibre.com.mx/p/MLM28530055?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
    "added_at": "2026-11-22T20:39:04+00:00",
-   "published_at": "",
-   "fb_post_id": "",
-   "link_auto": true
+   "published_at": "2026-11-22T21:34:38+00:00",
+   "fb_post_id": "4701707513395502",
+   "link_auto": true,
+   "code": 119,
+   "copy": {
+    "facebook": "🔥 Castillo Princesas Plegable Portátil Raganet Color Rosa\nHoy en $189 (antes $298). 37% de descuento.\nVer oferta 👉 https://www.mercadolibre.com.mx/p/MLM28530055?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "whatsapp": "🔥 *Castillo Princesas Plegable Portátil Raganet Color Rosa*\n$189 (antes $298)\n37% de descuento.\n👉 https://www.mercadolibre.com.mx/p/MLM28530055?matt_word=rejo8599631&matt_tool=72338831&forceInApp=true",
+    "tiktok_script": "GANCHO (0-3s): ¿Sabías que este producto está al 37% menos?\nCUERPO (3-15s): Castillo Princesas Plegable Portátil Raganet Color Rosa. Hoy cuesta $189 (antes $298).\nCIERRE (15-20s): Busca el código 119 en el link de mi perfil. Los precios cambian, corre.",
+    "tiktok_caption": "Castillo Princesas Plegable Portátil Raganet Color Rosa a $189 🔥 Código 119 en el link de mi perfil #ofertas #mercadolibre #mexico",
+    "web_blurb": "Castillo Princesas Plegable Portátil Raganet Color Rosa. Precio actual $189 (antes $298)."
+   },
+   "cards": {
+    "square": "MLM28530055-sq.jpg",
+    "vertical": "MLM28530055-v.jpg",
+    "video": "MLM28530055.mp4",
+    "text": "MLM28530055.txt"
+   },
+   "fb_status": "posted",
+   "fb_story_id": "1910017690361588",
+   "fb_reel_id": "4701707513395502",
+   "fb_comment": "pendiente: falta el permiso pages_manage_engagement"
   }
  }
 }
