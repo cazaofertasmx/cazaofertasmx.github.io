@@ -3851,9 +3851,9 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1835848264278066",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
    "fb_story_id": "1177233601658859",
-   "fb_comment_tries": 2
+   "fb_comment_tries": 3
   },
   "MLM50946024": {
    "id": "MLM50946024",
@@ -3906,8 +3906,8 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "4448292762053985",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
-   "fb_comment_tries": 2
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment_tries": 3
   },
   "MLM52843331": {
    "id": "MLM52843331",
@@ -3975,8 +3975,8 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1468533288755273",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
-   "fb_comment_tries": 2
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment_tries": 3
   },
   "MLM46915695": {
    "id": "MLM46915695",
@@ -4029,8 +4029,8 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1144862288282415",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
-   "fb_comment_tries": 2
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment_tries": 3
   },
   "MLM58329846": {
    "id": "MLM58329846",
@@ -4065,8 +4065,8 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1117069261077538",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
-   "fb_comment_tries": 2
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment_tries": 3
   },
   "MLM52368542": {
    "id": "MLM52368542",
@@ -4101,8 +4101,8 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "4658605904418512",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
-   "fb_comment_tries": 2
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment_tries": 3
   },
   "MLM23485952": {
    "id": "MLM23485952",
@@ -4137,9 +4137,9 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1145994264464833",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
    "fb_story_id": "2661912080898514",
-   "fb_comment_tries": 2
+   "fb_comment_tries": 3
   },
   "MLM28297181": {
    "id": "MLM28297181",
@@ -4174,9 +4174,9 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1822281035759864",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
    "fb_story_id": "1814692959832193",
-   "fb_comment_tries": 2
+   "fb_comment_tries": 3
   },
   "MLM36503961": {
    "id": "MLM36503961",
@@ -4211,9 +4211,9 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1853535219191057",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
    "fb_story_id": "1893381334984240",
-   "fb_comment_tries": 2
+   "fb_comment_tries": 3
   },
   "MLM22207427": {
    "id": "MLM22207427",
@@ -4248,9 +4248,9 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1145674028109207",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
    "fb_story_id": "2687664098417332",
-   "fb_comment_tries": 2
+   "fb_comment_tries": 3
   },
   "MLM18553094": {
    "id": "MLM18553094",
@@ -4285,9 +4285,9 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1138213242266032",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
    "fb_story_id": "1998225594894885",
-   "fb_comment_tries": 2
+   "fb_comment_tries": 3
   },
   "MLM19474833": {
    "id": "MLM19474833",
@@ -4322,9 +4322,9 @@
    },
    "fb_status": "posted",
    "fb_reel_id": "1124629683669956",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
    "fb_story_id": "2306928556900162",
-   "fb_comment_tries": 2
+   "fb_comment_tries": 3
   },
   "MLM43497684": {
    "id": "MLM43497684",
@@ -4360,8 +4360,8 @@
    "fb_status": "posted",
    "fb_story_id": "1490881149775817",
    "fb_reel_id": "1184763200869561",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
-   "fb_comment_tries": 2
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment_tries": 3
   },
   "MLM28530055": {
    "id": "MLM28530055",
@@ -4397,8 +4397,8 @@
    "fb_status": "posted",
    "fb_story_id": "1088059320930885",
    "fb_reel_id": "4701707513395502",
-   "fb_comment": "falló: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
-   "fb_comment_tries": 2
+   "fb_comment": "abandonado: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+   "fb_comment_tries": 3
   }
  }
 }
